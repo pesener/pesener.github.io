@@ -124,6 +124,9 @@ color: #ff4c68
     padding: 3% 2%;
     text-align: center;
 }
+.selam{
+    line-height: 0.9;
+}
 
 #cta{
     background-color: #ff4c68;
@@ -154,7 +157,7 @@ color: #ff4c68
         transform: rotate(0);
         width: 60%
     }
-   .nav-link{
+    .nav-link{
         font-size: 2.2rem;
         text-align: right;
     }
