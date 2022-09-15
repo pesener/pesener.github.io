@@ -154,4 +154,7 @@ color: #ff4c68
         transform: rotate(0);
         width: 60%
     }
+    .nav-link{
+        font-size: 2.2rem;
+        text-align: right;
 }
